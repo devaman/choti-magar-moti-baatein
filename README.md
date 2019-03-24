@@ -1,15 +1,14 @@
 ## Firefox
 1. [**AdBlock**](https://addons.mozilla.org/en-us/firefox/addon/adblock-plus/) - Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
 2. [**FoxyProxy**](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) - Plugin to quickly change the proxy.
-3. [**TabGroups**](https://addons.mozilla.org/en-US/firefox/addon/tab-groups-panorama/) - Plugin to view all opened tabs like in Safari.
-4. [**Disable `Ctrl + Q`**](https://addons.mozilla.org/en-US/firefox/addon/disable-ctrl-q-shortcut/) - disable the shortcut to close all the tabs.
-5. **`Ctrl + Shift + T`** - restore last tab closed.
-6. **`Ctrl + Shift + E`** - group tabs view
-7. [**VideoDownloadHelper**](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/) - Download video files, from any website
-8. [**Video Speed Controller**](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) - Control youtube video speed.
-9. [**DuckDuckGo Privacy Essentials**](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) - Privacy, simplified. tracker blocking, smarter encryption, DuckDuckGo private search, and more.
-10. [**JsonView**](https://addons.mozilla.org/en-us/firefox/addon/jsonview/) - Parses json string into objects and arrays.
-11. [**FireQuery**](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - Firebug plugin for jQuery development
+3. [**Disable `Ctrl + Q`**](https://addons.mozilla.org/en-US/firefox/addon/disable-ctrl-q-shortcut/) - disable the shortcut to close all the tabs.
+4. **`Ctrl + Shift + T`** - restore last tab closed.
+5. **`Ctrl + Shift + E`** - group tabs view
+6. [**VideoDownloadHelper**](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/) - Download video files, from any website
+7. [**Video Speed Controller**](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) - Control youtube video speed.
+8. [**DuckDuckGo Privacy Essentials**](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) - Privacy, simplified. tracker blocking, smarter encryption, DuckDuckGo private search, and more.
+9. [**JsonView**](https://addons.mozilla.org/en-us/firefox/addon/jsonview/) - Parses json string into objects and arrays.
+10. [**Redux DevTools**](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/) - Firebug plugin for jQuery development
 
 ## Chrome
 1. [**Folder upload option**](http://lifehacker.com/5952508/upload-folders-to-google-drive-faster-by-drag-and-dropping-them-into-chrome) - Upload complete forlders by dragging and droping into chrome, not available in firefox
