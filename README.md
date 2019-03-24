@@ -6,11 +6,10 @@
 5. **`Ctrl + Shift + T`** - restore last tab closed.
 6. **`Ctrl + Shift + E`** - group tabs view
 7. [**VideoDownloadHelper**](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/) - Download video files, from any website
-8. [**DownThemAll**](https://addons.mozilla.org/en-US/firefox/addon/downthemall/) - Download manager for firefox
-9. [**Firebug**](https://addons.mozilla.org/en-US/firefox/addon/firebug/) - Development tools for firefox, edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+8. [**Video Speed Controller**](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) - Control youtube video speed.
+9. [**DuckDuckGo Privacy Essentials**](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) - Privacy, simplified. tracker blocking, smarter encryption, DuckDuckGo private search, and more.
 10. [**JsonView**](https://addons.mozilla.org/en-us/firefox/addon/jsonview/) - Parses json string into objects and arrays.
 11. [**FireQuery**](https://addons.mozilla.org/en-us/firefox/addon/firequery/) - Firebug plugin for jQuery development
-12. [**Hide Caption Titlebar Plus**](https://addons.mozilla.org/en-US/firefox/addon/hide-caption-titlebar-plus-sma/) - Hide titlebar in firefox. Maximize your screen space by adjusting Firefox window TitleBar, borders, Tabs, Toolbars, etc!
 
 ## Chrome
 1. [**Folder upload option**](http://lifehacker.com/5952508/upload-folders-to-google-drive-faster-by-drag-and-dropping-them-into-chrome) - Upload complete forlders by dragging and droping into chrome, not available in firefox
