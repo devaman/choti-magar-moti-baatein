@@ -23,6 +23,7 @@
 ### Common to Both Browsers
 1. **Incognito mode** - Private browsing `Ctrl + Shift + N`(Chrome), `Ctrl + Shift + P`(Firefox)
 2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) - Sync media, messages across multiple devices.
+3. **Grammarly** ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)) ([*Chrome*](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)) - Corrects the grammar while you type.
 
 ## Websites
 1. [**Dayt.se**](http://dayt.se/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/) - Get all the tv series and movies in HD.
@@ -64,6 +65,7 @@
 37. [**kumpulbagi.id**](http://kumpulbagi.id/)- Download music,movies,games.
 38. [**8tracks.com**](http://8tracks.com/)- Make and discover playlists.
 39. [**10minutemail.com**](http://10minutemail.com/10MinuteMail/index.html)- To avoid spam create a temporary email.
+40. [**Hackerrank Calender**](https://www.hackerrank.com/calendar) - Schedule of every competitive competitions in the world
 
 ## Single Page Web Application
 1. [*HasteBin*](http://hastebin.com/about.md) (Open Source Paste Bin )
@@ -158,7 +160,7 @@
 5. **Evernote** - Write, manage and sync notes
 6. **Hooks** - Notification alerts for various events like sports, youtube, tv shows, earthquakes, scores etc.
 7. **If** - automation app. Defining events which trigger different events like when add a contact save it to google spreadsheet.
-8. **Moneyview **
+8. **Moneyview**
 9. **KingRoot** - root your phone(at your own risk).
 10. **Google Keep** - Write, manage and sync notes
 11. **Chromer** - open links in floating windows
@@ -180,6 +182,8 @@
 27. **LIfe360** - Locate your family and friends using GPS
 28. **AdAway** - Block most of Ads on your phone
 29. **SplitWise** - Split bills and expenses with friends
+30. **BlockSite** - For blocking websites in any browser. 
+31. **QualityTime** - For managing time and locking the phone for your concentration.
 
 ## Linux commands and shortcuts
 1. **ps -el | grep &lt;application name&gt;** - to get the process id of the process.
